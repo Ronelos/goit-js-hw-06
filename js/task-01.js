@@ -1,3 +1,4 @@
-const navEl = document.querySelectorAll('.item');
-
-console.log(navEl);
+const categories = document.querySelectorAll('li.item');
+console.log(`Number of categories: ${categories.length}`);
+const Category = document.querySelector('h2');
+console.log(`Category: ${Category.textContent}`);
