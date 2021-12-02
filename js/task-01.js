@@ -5,4 +5,4 @@ categories.forEach(element => {
     const item = element.querySelectorAll('li');
     console.log(`Category: ${title.textContent}`);
     console.log(`Elements: ${item.length}`);
-})
+});
