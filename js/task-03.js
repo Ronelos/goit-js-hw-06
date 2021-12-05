@@ -30,7 +30,7 @@ const markup = images
     imgEl.style.height = "200px";
   })
   
-  console.log(images);
+ 
   
 
   
